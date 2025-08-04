@@ -1,0 +1,9 @@
+YOUR FILES HAVE BEEN ENCRYPTED!
+
+This is a cybersecurity simulation for educational purposes.
+
+Your unique ID: 3fdb29c42b501728
+Contact your administrator for decryption instructions.
+
+Original files were encrypted with AES-256 and given a .masoomius extension.
+No actual harm has been done to your system.
